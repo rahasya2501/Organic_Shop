@@ -1,0 +1,21 @@
+.navbar-light .navbar-brand {
+    color: #c1d62e;
+}
+
+.dropdown-toggle, #logout {
+    cursor: pointer;
+}
+
+h2
+{
+  font-weight: bold;
+  color: rgb(207, 111, 21);
+}
+
+h6{
+  color:rgb(148, 91, 26);
+}
+
+.fa fa-pagelines fa-3x{
+  color:green;
+}

@@ -1,0 +1,63 @@
+.carousel-item img {
+    height: 500px !important;
+}
+
+.card img {
+    height:180px !important;
+}
+
+.card {
+    width: 240px;
+}
+
+.heading {
+    margin: 25px 0;
+}
+
+/*.carousel-caption h1 {
+    float: top;
+    color: #4e33b1;
+    text-shadow: 4px 0 0 #000, -4px 0 0 #000, 0 4px 0 #000, 0 -4px 0 #000, 3px 3px #000, -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.carousel-caption h2 {
+    color: WHITE;
+    text-shadow: 4px 0 0 #000, -4px 0 0 #000, 0 4px 0 #000, 0 -4px 0 #000, 3px 3px #000, -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000;
+    font-size: 100px;
+    font-weight:600
+}*/
+
+.best-sellers {
+    margin-bottom: 50px;
+}
+
+
+h3{
+color: black;
+}
+
+h2{
+  color:rgb(108, 216, 175);
+  font-weight: bold;
+}
+
+h1{
+  color:rgb(221, 90, 90);
+  font-weight: bold;
+}
+
+h4{
+  color: rgb(22, 71, 177);
+  }
+
+.div a{
+  text-align: center;
+  color: blue;
+
+}
+
+.nav-link{
+  color:white;
+}
